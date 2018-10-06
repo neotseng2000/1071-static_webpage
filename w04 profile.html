@@ -1,0 +1,36 @@
+<html>
+   <head>
+       <style>
+           background color
+       </style>
+   </head>
+    <body>
+        <form>
+           <fieldset>
+               <legend>個人資料</legend>
+               姓 &nbsp;&nbsp;&nbsp;名:<input type="text" name="username" size="40"><br>
+               E-mail:<input type="text" name="user e-mail" size="40" value="username@mailserver"><br>
+               年&nbsp;&nbsp;齡:
+               <input type="radio" name="UserAge" value="Age1">未滿20歲
+               <input type="radio" name="UserAge" value="Age2">20~29
+               <input type="radio" name="UserAge" value="Age3">30~39
+               <input type="radio" name="UserAge" value="Age4">40~49
+               <input type="radio" name="UserAge" value="Age5">50~59
+               <input type="radio" name="UserAge" value="Age6">60歲以上
+               </fieldset><br>
+        <fieldset>
+            <legend>您的興趣</legend>
+            您平常喜歡做什麼事情?
+            <input type="checkbox" name="UserExhibition[]" value="運動">運動
+            <input type="checkbox" name="UserExhibition[]" value="聽音樂">聽音樂
+            <input type="checkbox" name="UserExhibition[]" value="玩遊戲">玩遊戲
+            <input type="checkbox" name="UserExhibition[]" value="交朋友">交朋友
+            <input type="checkbox" name="UserExhibition[]" value="睡覺">睡覺<br>
+            您是否還有其他興趣呢?<br>
+            <textarea name="UserAnotherExhibition" cols="40" rows="5">其他興趣</textarea><br>
+            </fieldset><br>
+            <input type="submit" value="提交">
+            <input type="reset" value="重新輸入">
+        </form>
+    </body>
+</html>
