@@ -6,14 +6,15 @@
 * [w02(2).html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w02(2).html)
 ## week3
 * [w03.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w03.html)
+* [w03(02).html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w03(2).html)
 ## week4
-* [profile.html]()
-* [ttt.html]()
-* [blog.html]()
+* [profile.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w04%20profile.html)
+* [ttt.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w04%20ttt.html)
+* [blog.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w04%20blog.html)
 ## week5
 * [pet.html]()
 * [gallery.html]()
 ## week6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTM4ODQ5NiwtODA0MDM1NDk4XX0=
+eyJoaXN0b3J5IjpbLTI5NjA4NTkzOSwtODA0MDM1NDk4XX0=
 -->
