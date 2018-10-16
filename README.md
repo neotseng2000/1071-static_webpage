@@ -13,13 +13,9 @@
  8. [blog.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w04%20blog.html)
 ## week5
  9. [pet.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w05%20pet.html)
- 10. [gallery.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w05%20gallery.html
-
-
-
-)
+ 10. [gallery.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w05%20gallery.html)
 ## week6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODI0MTIwLC02MTE4NjE4MjAsLTgwND
-AzNTQ5OF19
+eyJoaXN0b3J5IjpbLTExODAyMzkzMTIsMTgxODI0MTIwLC02MT
+E4NjE4MjAsLTgwNDAzNTQ5OF19
 -->
