@@ -1,8 +1,8 @@
 # 1071-static_webpage
 ## week1
-* intro.html(https://github.com/neotseng2000/1071-static_webpage/blob/master/w01.html)
+* [intro.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w01.html)
 ## week2
-* w02.html
+* [w02.html}
 * w02(2).html
 ## week3
 * w03.html
@@ -15,5 +15,5 @@
 * gallery.html
 ## week6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjI4MDQyMiwtODA0MDM1NDk4XX0=
+eyJoaXN0b3J5IjpbMTY5MDU2NzcyOCwtODA0MDM1NDk4XX0=
 -->
