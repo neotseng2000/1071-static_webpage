@@ -1,17 +1,19 @@
 # 1071-static_webpage
-wee1intro.html
-2w02.html
-week w02(2).html
-week w03.html
-4profile.html
-4
+## week1
+*intro.html
+## week2
+*w02.html
+*w02(2).html
+## week3
+*w03.html
+## week4
+*profile.html
 *ttt.html
-4
 *blog.html
-weekpet.html
-week
+## week5
+*pet.html
 *gallery.html
-#6
+## week6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ0MTIwMjhdfQ==
+eyJoaXN0b3J5IjpbLTE3NjA5MzIyODZdfQ==
 -->
