@@ -12,9 +12,9 @@
 * [ttt.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w04%20ttt.html)
 * [blog.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w04%20blog.html)
 ## week5
-* [pet.html]()
-* [gallery.html]()
+* [pet.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w05%20pet.html)
+* [gallery.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w05%20gallery.html)
 ## week6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjA4NTkzOSwtODA0MDM1NDk4XX0=
+eyJoaXN0b3J5IjpbLTYxMTg2MTgyMCwtODA0MDM1NDk4XX0=
 -->
