@@ -15,12 +15,12 @@
  9. [pet.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w05%20pet.html)
  10. [gallery.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w05%20gallery.html)
 ## week6
- 11. [w06](https://github.com/neotseng2000/1071-static_webpage/blob/master/w06)
+ 11. [w06.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w06)
 ## week7
- 12. [w07](https://github.com/neotseng2000/1071-static_webpage/blob/master/w07)
- 13. [w07(2)](https://github.com/neotseng2000/1071-static_webpage/blob/master/w07(2))
+ 12. [w07.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w07)
+ 13. [w07(2).html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w07(2))
 ## week8
- 14.[w08](https://github.com/neotseng2000/1071-static_webpage/blob/master/w08)
+ 14.[w08.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w08)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExODAyMzkzMTIsMTgxODI0MTIwLC02MT
 E4NjE4MjAsLTgwNDAzNTQ5OF19
