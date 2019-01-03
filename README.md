@@ -1,6 +1,6 @@
 # 1071-static_webpage
 ## week1
- 1. [intro.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w01.html)
+ 1. [w01.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w01.html)
 ## week2
  2. [w02.html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w02.html)
  3. [w02(2).html](https://github.com/neotseng2000/1071-static_webpage/blob/master/w02(2).html)
